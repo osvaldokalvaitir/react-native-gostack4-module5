@@ -38,7 +38,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Execução dos Testes de Projeto
 
-.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga a Execução de Testes de Projeto.
 
 ## Utilizados no Projeto
 
