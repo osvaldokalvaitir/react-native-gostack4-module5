@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  🧪 Automated Testing using Enzyme, enzyme-adapter-react-16 and react-dom
+  :test_tube: Automated Testing using Enzyme, enzyme-adapter-react-16 and react-dom
 </p>
 
 <p align="center">
